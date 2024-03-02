@@ -42,6 +42,10 @@ python main.py
 
 
 The script will fetch the latest news from Israel and post it to the specified Slack channel.
+
+## Screenshot
+
+![SlackNewsBot Screenshot](https://github.com/OrenGrinker/SlackNewsAPI/blob/636ff9336802a598e95b44c8736c2a6a3487fbe0/Screenshot%202024-03-02%20at%2019.31.08.png)
 ## Screenshot
 
 ![SlackNewsBot Screenshot](https://github.com/OrenGrinker/SlackNewsAPI/blob/636ff9336802a598e95b44c8736c2a6a3487fbe0/Screenshot%202024-03-02%20at%2019.31.08.png)
